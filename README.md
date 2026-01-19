@@ -155,7 +155,8 @@ populateAddressBook(addressBook);
 
 ## 👩‍💻 Author
 
-**K. Y. Vyshnavi Devi**
+**K. Yoga Vyshnavi Devi**
+
 Address Book Management System — C Programming
 
 ---
